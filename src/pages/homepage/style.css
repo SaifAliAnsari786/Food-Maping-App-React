@@ -1,0 +1,13 @@
+
+.loading{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.item{
+    display: flex;
+    gap: 25px;
+    margin-bottom: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
